@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ExamenP3_RiveraJoel.props" />
+</Project>
